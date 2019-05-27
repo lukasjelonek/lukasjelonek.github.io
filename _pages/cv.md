@@ -27,12 +27,15 @@ Work experience
 
 * 2013: Research assistant
   * Bielefeld University
-  * Duties included: Parallelization of bioinformatic tools
+  * Duties included: 
+      * Collect information on 'Parallelization of bioinformatic tools'
   * Supervisor: Dr. Alexander Goesmann
 
 * 2010-2013: Phd student
   * Bielefeld University
-  * Duties included: Fungal genome annotation, Software implementation (Java)
+  * Duties included: 
+      * Fungal genome annotation
+      * Java EE software development
   * Supervisor: Dr. Alexander Goesmann
 
 Skills
