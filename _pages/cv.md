@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 2014-now: Scientific assistant
+* 2014-now: Research assistant
   * Justus-Liebig-University Gießen
   * Duties included: 
     * Teaching 
@@ -25,7 +25,7 @@ Work experience
     * Development of distributed applications
   * Supervisor: Prof. Dr. Alexander Goesmann
 
-* 2013: Scientific assistant
+* 2013: Research assistant
   * Bielefeld University
   * Duties included: Parallelization of bioinformatic tools
   * Supervisor: Dr. Alexander Goesmann
