@@ -18,7 +18,11 @@ Work experience
 ======
 * 2014-now: Scientific assistant
   * Justus-Liebig-University Gießen
-  * Duties included: Teaching, Development of distributed applications
+  * Duties included: 
+    * Teaching 
+    * Data analysis
+    * Workflow development
+    * Development of distributed applications
   * Supervisor: Prof. Dr. Alexander Goesmann
 
 * 2013: Scientific assistant
